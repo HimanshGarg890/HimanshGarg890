@@ -20,7 +20,8 @@ Welcome to my GitHub profile! I’m passionate about blending **mechanical, elec
 - **3D CAD Modelling**: SolidWorks, AutoCAD, Onshape  
 - **Fabrication & Prototyping**: CNC Machining, Lathe, Milling, Soldering
 
-### Programming:: **C++, Python, Java, JavaScript**
+### Programming:
+ **C++, Python, Java, JavaScript**
 
 
 ### Concepts:
