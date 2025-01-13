@@ -42,7 +42,6 @@ Welcome to my GitHub profile! I’m passionate about blending **mechanical, elec
 ### 🏎️ **Baja Car Steering System**
 - Designed a **3m turning radius** for the Baja car, following the **Ackermann principle** on SolidWorks
 
- - 🛠️ Volunteered as an **automotive technician**, assisting with general maintenance and gaining insights into **GDI systems**, **turbochargers**, and **CVTs**.
 ---
 
 ## 🌱 **What I'm Learning**
