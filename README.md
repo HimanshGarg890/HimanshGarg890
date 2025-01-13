@@ -1,13 +1,14 @@
 # 👋 Hello, World! I'm Himansh Garg
 
-🚀 **Mechatronics Engineering Student** | 🔧 Maker | 🤖 Robotics Enthusiast  
+🎓 **Mechatronics Engineering Student** | 🔧 Maker | 🤖 Robotics Enthusiast  
 Welcome to my GitHub profile! I’m passionate about blending **mechanical, electrical, and software engineering** to create innovative solutions for real-world challenges.
 
 ---
 
-## 🚩 **Who Am I?**
+## 🚀 **Who Am I?**
 - 🌟 A driven individual exploring **automation**, **robotics**, and **automotive technologies**.
 - 📚 Currently studying **Mechatronics Engineering** at the University of Waterloo.
+- - 🌟 GPA: **3.88/4.0**
 - 🏎️ Dynamics team member for the **UWaterloo Baja SAE Team**, designing steering systems and fabricating key components.
 
 
@@ -19,9 +20,7 @@ Welcome to my GitHub profile! I’m passionate about blending **mechanical, elec
 - **3D CAD Modelling**: SolidWorks, AutoCAD, Onshape  
 - **Fabrication & Prototyping**: CNC Machining, Lathe, Milling, Soldering
 
-### Programming:
-- Proficient in: **C++, Python, Java, JavaScript**
-- Exploring: **AI and Machine Learning**, with a focus on **Neural Networks**.
+### Programming:: **C++, Python, Java, JavaScript**
 
 
 ### Concepts:
@@ -32,16 +31,15 @@ Welcome to my GitHub profile! I’m passionate about blending **mechanical, elec
 
 ## 📂 **Featured Projects**
 ### 🏀 **Golf Ball Sorting Robot**
-- Designed and programmed a robot to sort balls by **color** and **weight**, utilizing LEGO Mindstorms EV3.
+- Designed and programmed a robot to sort golf balls by **color** and **weight**, utilizing LEGO Mindstorms EV3.
 - Created custom 3D-printed components for enhanced functionality.  
 
 ### 🗑️ **Waste Classifier AI**
-- Built a neural network model to classify garbage images for potential **waste management automation**.
+- Built a neural network model using Python libraries to classify garbage images for potential **waste management automation**.
 - Applied **ANN** and **CNN** techniques to improve accuracy and optimize predictions.
 
 ### 🏎️ **Baja Car Steering System**
-- Engineered a **3m turning radius** for a competition-ready Baja car, following the **Ackermann principle**.  
-
+- Designed a **3m turning radius** for the Baja car, following the **Ackermann principle** on SolidWorks
 ---
 
 ## 🌱 **What I'm Learning**
