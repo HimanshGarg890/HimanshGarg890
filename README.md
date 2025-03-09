@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about blending **mechanical, elec
 ## 📂 **Featured Projects**
 🔗 **Check out my full project portfolio here:** [My Engineering Portfolio](https://www.notion.so/My-Engineering-Portfolio-1ad0033d1fee802b8b1cc0a91a03cc37)  
 
-### 🏀 **Golf Ball Sorting Robot**
+### ⛳ **Golf Ball Sorting Robot**
 - Designed and programmed a robot to sort golf balls by **color** and **weight**, utilizing LEGO Mindstorms EV3.
 - Created custom 3D-printed components for enhanced functionality.  
 
